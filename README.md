@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dieselwdev&label=Profile%20views&color=0e75b6&style=flat" alt="dieselwdev" /> </p>
 
-- 🌱 I’m currently learning **GLua, C++**
+- 🌱 I’m currently learning **the deep of Lua**
 
 - 📫 How to reach me **Diesel#7963**
 
