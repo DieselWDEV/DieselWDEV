@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the deep of Lua**
 
-- 📫 How to reach me **Diesel#7963**
+- 📫 How to reach me **dieseldev1** on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
